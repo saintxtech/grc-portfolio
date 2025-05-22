@@ -1,7 +1,7 @@
 
-# 🛡️ GRC & Cybersecurity Portfolio – Marcus SP
+# 🛡️ GRC & Cybersecurity Portfolio – Melven SP
 
-Hey there! I’m Marcus, a cybersecurity professional pivoting into GRC from a leadership background in healthcare operations. This portfolio is where I turn frameworks into reality — not just theory. Each project here is designed to showcase how I’d contribute as a GRC Analyst from Day 1.
+Hey there! I’m Melven, a cybersecurity professional pivoting into GRC from a leadership background in healthcare operations. This portfolio is where I turn frameworks into reality — not just theory. Each project here is designed to showcase how I’d contribute as a GRC Analyst from Day 1.
 
 ---
 
@@ -39,9 +39,9 @@ A full enterprise risk assessment based on NIST SP 800-30 and HIPAA Security Rul
 
 ## 📫 Let’s Connect
 
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/melven-saint-paulin-644680126/)
 - GitHub: [github.com/saintxtech](https://github.com/saintxtech)
 
 ---
 
-Thanks for stopping by — I hope this shows I’m already thinking like a GRC pro. Let’s work together.
+Thanks for stopping by!
